@@ -1713,7 +1713,7 @@
 
 "@madoc@git+https://github.com/digirati-co-uk/madoc-platform.git#feature/uxpin-merge":
   version "1.0.0"
-  resolved "git+https://github.com/digirati-co-uk/madoc-platform.git#0148c582a2730f203d57d240728a1e0a610e381e"
+  resolved "git+https://github.com/digirati-co-uk/madoc-platform.git#0aef25b2f694dc9ac17178fdf31286790a22c4f1"
 
 "@material-ui/core@^4.11.0":
   version "4.11.0"
