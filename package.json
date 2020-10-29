@@ -9,13 +9,9 @@
   "author": "Stephen Fraser <stephen.fraser@digirati.com>",
   "license": "MIT",
   "scripts": {
-    "build": "NODE_ENV=production rollup -c && tsc -p ./tsconfig.dist.json --emitDeclarationOnly",
-    "start": "rollup -c --watch",
     "uxpin": "uxpin-merge --disable-tunneling",
     "uxpin-server": "uxpin-merge server",
-    "uxpin-push": "uxpin-merge push",
-    "test": "jest",
-    "build-types": "tsc -p ./tsconfig.dist.json --emitDeclarationOnly"
+    "uxpin-push": "uxpin-merge push"
   },
   "dependencies": {
     "isomorphic-unfetch": "^3.1.0",
