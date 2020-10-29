@@ -38,7 +38,7 @@ module.exports = {
             //     ],
             //   },
         ],
-        wrapper: '@madoc/services/madoc-ts/src/uxpin-merge/UXPinWrapper.js',
+        wrapper: 'node_modules/@madoc/services/madoc-ts/src/uxpin-merge/UXPinWrapper.js',
         webpackConfig: './webpack.uxpin.js',
     },
     name: 'UXPin Merge - Madoc',
