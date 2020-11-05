@@ -24,7 +24,7 @@
     "@hyperion-framework/types": "1.0.0-alpha.14",
     "@hyperion-framework/vault": "1.0.0-alpha.23",
     "@koa/router": "^8.0.6",
-    "@madoc": "git+https://github.com/digirati-co-uk/madoc-platform.git#feature/uxpin-merge",
+    "@madoc": "git+https://github.com/digirati-co-uk/madoc-platform.git#v2",
     "@slonik/migrator": "^0.2.0",
     "@slonik/typegen": "^0.3.1",
     "@types/adm-zip": "^0.4.33",
