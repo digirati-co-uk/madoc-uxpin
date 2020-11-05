@@ -9,6 +9,7 @@
   "author": "Stephen Fraser <stephen.fraser@digirati.com>",
   "license": "MIT",
   "scripts": {
+    "uxpin-upgrade": "yarn upgrade @madoc && git commit -am 'Updated UXPin' && git push origin master",
     "uxpin": "uxpin-merge --disable-tunneling",
     "uxpin-server": "uxpin-merge server",
     "uxpin-push": "uxpin-merge push",
