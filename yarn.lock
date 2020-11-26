@@ -1713,7 +1713,7 @@
 
 "@madoc@git+https://github.com/digirati-co-uk/madoc-platform.git#feature/merge-demo":
   version "1.0.0"
-  resolved "git+https://github.com/digirati-co-uk/madoc-platform.git#1e287294fad3a03cdaf872baddda0e06ae7ff926"
+  resolved "git+https://github.com/digirati-co-uk/madoc-platform.git#1181ba13d868862b3c197bf8e95f6f2cd522661b"
 
 "@material-ui/core@^4.11.0":
   version "4.11.0"
