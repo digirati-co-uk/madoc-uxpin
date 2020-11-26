@@ -1711,9 +1711,9 @@
     path-to-regexp "1.x"
     urijs "^1.19.2"
 
-"@madoc@git+https://github.com/digirati-co-uk/madoc-platform.git#v2":
+"@madoc@git+https://github.com/digirati-co-uk/madoc-platform.git#feature/merge-demo":
   version "1.0.0"
-  resolved "git+https://github.com/digirati-co-uk/madoc-platform.git#b72d0612fab58dad02a760b0b5e5ae3fd97c16ea"
+  resolved "git+https://github.com/digirati-co-uk/madoc-platform.git#723363404b7bc11f6fa7433acf4e28bb343d02fe"
 
 "@material-ui/core@^4.11.0":
   version "4.11.0"
